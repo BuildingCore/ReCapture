@@ -1,0 +1,11 @@
+{
+  "name": "recapture.v01",
+  "version": "1.0.0",
+  "description": "Recapture: Is a drone photo progress web application, built for the construction industry. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KeyShaun Ward - BuildingCore Studio, LLC.",
+  "license": "ISC"
+}
