@@ -8,8 +8,12 @@ const app = express()
 const PORT = process.env.PORT || 8080
 
 //Middleware
+app.use(express.static("public"))
 
 //Public Routes
+app.get("/", (req, res) => {
+    
+})
 
 //Private Router - App
 
